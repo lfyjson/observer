@@ -1,0 +1,11 @@
+{
+  "name": "ev-observer",
+  "version": "1.0.3",
+  "description": "发布/订阅模式",
+  "main": "observer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lfyjson",
+  "license": "ISC"
+}
